@@ -11,3 +11,4 @@ torch
 psycopg2-binary
 sqlalchemy
 pytest
+vaderSentiment
